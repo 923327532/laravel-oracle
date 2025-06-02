@@ -1,8 +1,8 @@
 Tarea- Aplicación Laravel + Oracle con Procedimiento Almacenado
 # Lab11 - Aplicación Laravel + Oracle con Procedimiento Almacenado
 
-![Laravel + Oracle]([image](https://github.com/user-attachments/assets/2d7d7f32-cb6e-4b89-8a59-9d99127ea979)
-)
+![image](https://github.com/user-attachments/assets/c95b58f8-2398-4752-8369-76ac6eca051b)
+
 
 ## 🚀 Descripción General
 
