@@ -1,6 +1,7 @@
 Tarea- Aplicación Laravel + Oracle con Procedimiento Almacenado
 
 🚀 Descripción General
+![image](https://github.com/user-attachments/assets/b0160553-92ce-4939-8c58-f63e59058337)
 
 Esta aplicación Laravel permite demostrar la integración entre Laravel (PHP) y Oracle Database. Desarrollada para el Laboratorio 11, implementa un flujo completo desde el inicio de sesión hasta la ejecución de un procedimiento almacenado. El sistema permite ingresar usuarios, visualizar registros y sincronizar dos tablas mediante la sentencia MERGE ejecutada directamente desde Laravel.
 
@@ -145,16 +146,24 @@ Laravel muestra un mensaje de éxito y actualiza la visualización.
 📸 Capturas necesarias para el informe
 
 Bienvenida (welcome.blade.php)
+![image](https://github.com/user-attachments/assets/f4083b08-11e5-4e71-a94a-8836644365d8)
+
 
 Registro (register.blade.php)
+![image](https://github.com/user-attachments/assets/98f953ad-235b-4375-99c1-9296f97e4f27)
+
 
 Login (login.blade.php)
 
+![image](https://github.com/user-attachments/assets/5cb45ff9-a2a3-4a10-a715-1158478c37a8)
+
 Dashboard antes y después de ejecutar el procedimiento
+![image](https://github.com/user-attachments/assets/3199a8a0-3172-44c6-a8cd-77b612ed6071)
 
 Vista de comparación entre tabla_origen y tabla_destino
 
 Mensaje de éxito de actualización
+![image](https://github.com/user-attachments/assets/6f63e535-556d-4ab0-ae7a-292be4ff895d)
 
 Consola SQL con SELECT COUNT(\*) FROM tabla_destino;
 
