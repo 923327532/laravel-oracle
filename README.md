@@ -1,5 +1,5 @@
 Tarea- Aplicación Laravel + Oracle con Procedimiento Almacenado
-# Lab11 - Aplicación Laravel + Oracle con Procedimiento Almacenado
+# tarea- Aplicación Laravel + Oracle con Procedimiento Almacenado
 
 ![image](https://github.com/user-attachments/assets/c95b58f8-2398-4752-8369-76ac6eca051b)
 
@@ -12,7 +12,7 @@ Esta aplicación Laravel permite demostrar la integración entre Laravel (PHP) y
 
 ## 📂 Tecnologías utilizadas
 
-* **Framework:** Laravel 9
+* **Framework:** Laravel 10
 * **Lenguaje:** PHP 8.1
 * **Base de Datos:** Oracle Database 21c Express Edition (XE)
 * **ORM:** Eloquent (Laravel)
